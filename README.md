@@ -73,7 +73,7 @@ http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-get
 
 http://www.codewars.com/kata/partition-on +
 
-http://www.codewars.com/kata/implement-a-filter-function -
+http://www.codewars.com/kata/implement-a-filter-function +
 
 http://www.codewars.com/kata/sequence-generator-1 -
 
