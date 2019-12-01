@@ -71,7 +71,7 @@ http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritan
 
 http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters +
 
-http://www.codewars.com/kata/partition-on -
+http://www.codewars.com/kata/partition-on +
 
 http://www.codewars.com/kata/implement-a-filter-function -
 
