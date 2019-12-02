@@ -75,7 +75,7 @@ http://www.codewars.com/kata/partition-on +
 
 http://www.codewars.com/kata/implement-a-filter-function +
 
-http://www.codewars.com/kata/sequence-generator-1 -
+http://www.codewars.com/kata/sequence-generator-1 +
 
 https://www.codewars.com/kata/base-conversion -
 
